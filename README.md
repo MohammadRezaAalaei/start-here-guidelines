@@ -1,3 +1,5 @@
+
+
 Guidelines on how this open-source community works :)
 
 Read below to see how you can join an existing project or create your own.
